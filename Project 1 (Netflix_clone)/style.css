@@ -14,7 +14,7 @@ body{
 /* Part 1 : Frontface */
 
 .main-class{
-    background-image: url(../Pro_Images/main_bg.jpg);
+    background-image: url(main_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
